@@ -1,7 +1,7 @@
-Adaptive-Image-Binarizing
+Adaptive-Image-Binarizing 
 =========================
 
- Adaptive binarization of image with using simple window of averaging.  Highly is not optimal.
+ Adaptive binarization of image with using simple window of averaging. Using fork/join pool. Highly is not optimal.
 Command line arguments:</br>
      -i input file, </br>
      -o output file </br>
